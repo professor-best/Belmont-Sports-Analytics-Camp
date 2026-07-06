@@ -151,6 +151,14 @@ baseball[order(-baseball$ISO), c("Tm", "ISO")]
 
 ## ---------------------------------------------------------------------
 
+## ---------------------------------------------------------
+## PART 6: Baseball's Pythagorean Thm
+## ---------------------------------------------------------
+## Let's pull it all together! Read in the mlb-phy and ausl-phy dataset and 
+## create new columns for win % and the Pythagorean theorem.
+
+
+
 
 ## ---------------------------------------------------------
 ## BONUS -- if you finish early
